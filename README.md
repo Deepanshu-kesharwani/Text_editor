@@ -44,11 +44,7 @@ My Notepad is a simple text editor built using Python and the Tkinter library. I
 | **Save**     | Opens a save dialog to save your work.     |
 | **Exit**     | Closes the application.                   |
 
-## Example Screenshot
-*(Optional: Add a screenshot of your application window here)*
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 - Built using the Tkinter library for GUI.
